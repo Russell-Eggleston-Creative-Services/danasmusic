@@ -11216,7 +11216,6 @@ button.bg-dark:hover {
 
 .text-white {
     color: #fff!important;
-    font-weight: 300;
 }
 
 .text-primary {
@@ -11317,7 +11316,6 @@ a.text-dark:hover {
 
 .text-decoration-none {
     text-decoration: none!important;
-    font-weight: 300;
 }
 
 .text-break {
