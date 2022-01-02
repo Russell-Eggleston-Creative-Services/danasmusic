@@ -11188,8 +11188,7 @@ button.bg-dark:hover {
 }
 
 .font-weight-light {
-    font-weight: 300;
-    color: #ffffff;
+    font-weight: 300!important;
 }
 
 .font-weight-lighter {
@@ -11201,7 +11200,7 @@ button.bg-dark:hover {
 }
 
 .font-weight-bold {
-    font-weight: 300;
+    font-weight: 700!important;
 }
 
 .font-weight-bolder {
