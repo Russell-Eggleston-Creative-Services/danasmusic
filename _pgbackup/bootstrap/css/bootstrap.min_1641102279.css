@@ -166,7 +166,7 @@ sup {
 }
 
 a {
-    color: #1a0d56;
+    color: #007bff;
     text-decoration: none;
     background-color: transparent;
 }
@@ -213,7 +213,6 @@ img {
 svg {
     overflow: hidden;
     vertical-align: middle;
-    color: #1a0d56;
 }
 
 table {
