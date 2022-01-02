@@ -7301,7 +7301,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-    background-color: #1a0d56;
+    background-color: #1f1c4a !important;
 }
 
 a.bg-primary:focus,
